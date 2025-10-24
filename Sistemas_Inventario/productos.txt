@@ -1,0 +1,3 @@
+A101;Libro;0;20.0
+a102;Cuaderno;1;5.0
+A103;Borrador;18;3.0

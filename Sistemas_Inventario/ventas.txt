@@ -1,0 +1,8 @@
+V1;Maria;A101;Libro;1;20.0
+V1;Alonso;a102;Cuaderno;4;5.0
+V1;Alicia;a102;Cuaderno;2;5.0
+V1;Pablo;a102;Cuaderno;2;5.0
+V1;Anita;a102;Cuaderno;2;5.0
+V1;Cliente;a102;Cuaderno;2;5.0
+V1;Cliente;a102;Cuaderno;2;5.0
+V2;Ana;a102;Cuaderno;1;5.0
